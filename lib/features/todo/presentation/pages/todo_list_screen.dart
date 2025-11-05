@@ -1,3 +1,5 @@
+// Propósito: Página Stateless que observa o Notifier.
+// Nota: Um pequeno widget interno gerencia apenas o TextEditingController (preocupação de UI).
 import 'package:desafio_4/features/todo/presentation/notifiers/todo_notifier.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';

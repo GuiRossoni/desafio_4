@@ -1,3 +1,5 @@
+// Propósito: ChangeNotifier que orquestra casos de uso e expõe o estado para a UI.
+// Camada: Apresentação (depende apenas de casos de uso do domínio).
 import 'package:flutter/foundation.dart';
 import 'package:desafio_4/features/todo/domain/entities/todo.dart';
 import 'package:desafio_4/features/todo/domain/usecases/add_todo.dart';

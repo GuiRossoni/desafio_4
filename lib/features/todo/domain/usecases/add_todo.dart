@@ -1,3 +1,5 @@
+// Propósito: Caso de uso para adicionar uma tarefa; valida o título via TodoTitle.
+// Camada: Domínio (regras de negócio encapsuladas no Value Object).
 import 'package:desafio_4/features/todo/domain/entities/todo.dart';
 import 'package:desafio_4/features/todo/domain/entities/todo_title.dart';
 import 'package:desafio_4/features/todo/domain/repositories/i_todo_repository.dart';

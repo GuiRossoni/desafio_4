@@ -1,3 +1,5 @@
+// Propósito: Entidade Todo imutável com copyWith e método toggled.
+// Camada: Domínio (sem dependências de Flutter/UI/Dados).
 import 'package:desafio_4/features/todo/domain/entities/todo_title.dart';
 
 class Todo {

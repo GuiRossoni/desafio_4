@@ -1,3 +1,5 @@
+// Propósito: Value Object com validação do título (<= 50 caracteres, não vazio).
+// Camada: Domínio (sem dependências de Flutter/UI/Dados).
 class TodoTitle {
   final String value;
 

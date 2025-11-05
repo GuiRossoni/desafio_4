@@ -1,3 +1,5 @@
+// Propósito: Implementação do repositório; delega operações ao DataSource local.
+// Camada: Data (implementa contrato do domínio).
 import 'package:desafio_4/features/todo/data/datasources/todo_local_datasource.dart';
 import 'package:desafio_4/features/todo/domain/entities/todo.dart';
 import 'package:desafio_4/features/todo/domain/repositories/i_todo_repository.dart';

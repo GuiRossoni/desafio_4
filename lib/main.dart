@@ -1,3 +1,7 @@
+// Propósito: Composição do app.
+// - Liga dependências (DataSource, Repositório, Casos de Uso)
+// - Disponibiliza o TodoNotifier via Provider
+// - Define o TodoListScreen como home
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

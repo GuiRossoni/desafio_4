@@ -1,3 +1,5 @@
+// Propósito: Fonte de dados local (armazenamento em memória) com itens pré-carregados.
+// Camada: Data (simula persistência; não contém regras de negócio do domínio).
 import 'package:desafio_4/features/todo/domain/entities/todo.dart';
 import 'package:desafio_4/features/todo/domain/entities/todo_title.dart';
 
